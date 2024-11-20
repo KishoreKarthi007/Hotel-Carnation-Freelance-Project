@@ -29,7 +29,7 @@ Welcome to the official repository for the **Hotel Carnation Website**, a visual
 
 **🔧 Setup and Installation**
 1) Clone the repository:
-  git clone https://github.com/your-username/hotel-carnation.git
+  git clone [https://github.com/KishoreKarthi007/Hotel-Carnation-Freelance-Project.git](https://github.com/KishoreKarthi007/Hotel-Carnation-Freelance-Project.git)
 2) Navigate to the project directory:
   cd hotel-carnation
 3) Open index.html in your browser to view the website locally.
