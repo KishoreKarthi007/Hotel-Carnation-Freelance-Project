@@ -27,16 +27,6 @@ Welcome to the official repository for the **Hotel Carnation Website**, a visual
 ## 🚀 Deployment
 - Hosted on **Netlify** for a fast, reliable, and scalable web experience.
 
-## 📂 Project Structure
-├── index.html         # Main HTML file
-├── other.html         # Other HTML files
-├── css/
-│   ├── style.css      # Main CSS file
-├── js/
-│   ├── script.js      # JavaScript for interactivity
-├── assets/
-│   ├── images/        # Images and media files
-
 **🔧 Setup and Installation**
 1) Clone the repository:
   git clone https://github.com/your-username/hotel-carnation.git
@@ -61,5 +51,5 @@ Special thanks to the stakeholders for providing insights into the hotel's brand
 
 **🤝 Connect**
 For inquiries or collaboration, feel free to reach out:
-Email: kishorekarthikeyan123@gmail.com
-GitHub: KishoreKarthi007
+- Email: kishorekarthikeyan123@gmail.com
+- GitHub: KishoreKarthi007
