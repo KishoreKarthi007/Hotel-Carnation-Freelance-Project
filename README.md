@@ -3,7 +3,7 @@
 Welcome to the official repository for the **Hotel Carnation Website**, a visually appealing and user-friendly website for a hotel located in Ooty. This project showcases modern web development practices with a focus on design, responsiveness, and functionality.
 
 ## 🌟 Live Demo  
-[Hotel Carnation Website](https://statuesque-kheer-d6479a.netlify.app/)  
+[Hotel Carnation Website](https://hotel-carnation.netlify.app/)  
 
 ## 📋 Features
 - **Responsive Design**: Optimized for various devices, including desktops, tablets, and mobile phones.
