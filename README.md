@@ -13,7 +13,7 @@ Welcome to the official repository for the **Hotel Carnation Website**, a visual
 - **Contact Form**: Enabled with **Email.js** for direct email communication.
 
 ## 🛠️ Tech Stack
-- **Design**: [Figma]([https://www.figma.com/](https://www.figma.com/design/aepuZY75AlPwDEPYNZotiI/Untitled?node-id=0-1&t=t9mKn5fxQ0ZXuwJZ-1))  
+- **Design**: [Figma](https://www.figma.com/design/aepuZY75AlPwDEPYNZotiI/Untitled?node-id=0-1&t=t9mKn5fxQ0ZXuwJZ-1) 
 - **Development Environment**: [Visual Studio Code (VS Code)](https://code.visualstudio.com/)  
 - **Front-End**:
   - HTML5
